@@ -1,0 +1,27 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+src/routes/AppNavigator.test.tsx
+src/pages/dashboard/Dashboard.test.tsx
+babel.config.js
+babel.config.js
+src/pages/dashboard/Dashboard.test.js
+src/routes/AppNavigator.test.js
+src/pages/dashboard/Dashboard.tsx
+src/pages/dashboard/Dashboard.tsx
+tsconfig.json
+babel.config.js
+src/pages/dashboard/Dashboard.tsx
+tsconfig.json
+babel.config.js
